@@ -1,0 +1,7 @@
+Backup script for Drupal 8 sites
+
+Requires:
+* Drupal 8 installation
+* /usr/bin/drush installation (or symlink)
+* /usr/local/backups/<site alias> backup directory
+* /usr/local/logs/backups log directory
